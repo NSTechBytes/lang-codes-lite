@@ -1,0 +1,32 @@
+{
+  "name": "lang-codes-lite",
+  "version": "1.0.0",
+  "description": "Lightweight ISO 639-1 language name ↔ code lookup with case-insensitive matching",
+  "main": "index.js",
+  "keywords": [
+    "language",
+    "iso-639-1",
+    "i18n",
+    "language-codes",
+    "lookup",
+    "case-insensitive"
+  ],
+  "author": "nstechbytes",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js",
+    "lint": "eslint . --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nstechbytes/lang-codes-lite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nstechbytes/lang-codes-lite/issues"
+  },
+  "homepage": "https://github.com/nstechbytes/lang-codes-lite#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
